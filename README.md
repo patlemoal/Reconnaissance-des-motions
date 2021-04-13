@@ -18,11 +18,12 @@ Les expressions du visage peuvent naturellement servirent à évaluer la satisfa
     L’humanisation des robots dans leurs interactions avec les humains dont ils prendraient en compte l’état psychique.
 
 Etude 
+
 [brief_reconnaissance des émotions-vf.ipynb](/brief_reconnaissance des émotions-vf.ipynb)
 
 
 Architecture du modele
-![image](architecturedumodel.png)
+![image](architecturedumodel.PNG)
 
 
 
