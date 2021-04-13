@@ -16,3 +16,16 @@ Les expressions du visage peuvent naturellement servirent à évaluer la satisfa
     La détection d’un manque d’attention chez un conducteur en vue d’augmenter la sécurité de la conduite.
     L’évaluation du niveau de stress de passagers à l’atterrissage ou à l’arrivé en gare ou la détection de comportements suspects.
     L’humanisation des robots dans leurs interactions avec les humains dont ils prendraient en compte l’état psychique.
+
+Etude 
+[brief_reconnaissance des émotions-vf.ipynb](brief_reconnaissance des émotions-vf.ipynb)
+
+
+Architecture du modele
+![architecturedumodel](architecturedumodel)
+
+
+
+
+Visualisation
+[NEUTRE.png](NEUTRE.png)
