@@ -19,14 +19,14 @@ Les expressions du visage peuvent naturellement servirent à évaluer la satisfa
 
 Etude 
 
-[brief_reconnaissance des émotions-vf.ipynb](/brief_reconnaissance des émotions-vf.ipynb)
+[brief_reconnaissance des émotions-vf](/brief_reconnaissance des émotions-vf.ipynb)
 
 
-Architecture du modele
+Architecture du model : (détails dans le notebook)
+
 ![image](architecturedumodel.PNG)
 
 
-
-
 Visualisation
+
 [NEUTRE.png](NEUTRE.png)
