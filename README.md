@@ -19,7 +19,7 @@ Les expressions du visage peuvent naturellement servirent à évaluer la satisfa
 
 Etude 
 
-[brief_reconnaissance des émotions](/brief_reconnaissance des émotions-vf.ipynb)
+[brief_reconnaissance_des_émotions](/brief_reconnaissance des émotions-vf.ipynb)
 
 [brief_reconnaissance des émotions](/brief_reconnaissance des émotions-vf.ipynb)
 
