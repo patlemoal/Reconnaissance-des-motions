@@ -19,7 +19,7 @@ Les expressions du visage peuvent naturellement servirent à évaluer la satisfa
 
 Etude 
 
-[brief_reconnaissance_des_émotions](brief_reconnaissance des émotions-vf.ipynb)
+[brief_reconnaissance_des_émotions](https://github.com/patlemoal/Reconnaissance-des-motions/blob/7a7f86a86abf1759aeecb2bd1ae2087d3c633cd2/brief_reconnaissance%20des%20%C3%A9motions-vf.ipynb)
 
 
 Architecture du model : (détails dans le notebook)
